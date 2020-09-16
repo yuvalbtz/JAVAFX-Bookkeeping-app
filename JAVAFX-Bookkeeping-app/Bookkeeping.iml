@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="jfoenix-9.0.8" level="application" />
+    <orderEntry type="library" exported="" name="mysql-connector-java-8.0.16" level="application" />
+    <orderEntry type="library" exported="" name="commons-collections4-4.1" level="application" />
+    <orderEntry type="library" exported="" name="fontawesomefx-8.1" level="application" />
+    <orderEntry type="library" exported="" name="mail - jar files" level="application" />
+    <orderEntry type="library" name="java-mail-1.4.41" level="application" />
+    <orderEntry type="library" name="firebase project" level="application" />
+    <orderEntry type="library" name="poi-scratchpad-4.1.0" level="application" />
+    <orderEntry type="library" name="fontawesomefx-8.0.9" level="application" />
+    <orderEntry type="library" name="fontawesomefx-glyphsbrowser-all-1.0" level="application" />
+    <orderEntry type="library" name="fontawesomefx-8.11" level="application" />
+    <orderEntry type="library" name="fontawesomefx-8.0.1-SNAPSHOT" level="application" />
+  </component>
+</module>
